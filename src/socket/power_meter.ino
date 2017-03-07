@@ -31,3 +31,4 @@ void ez_power_meter_read()
 
 	// (pow_meter_current_average.average < EZ_POW_METER_NOISE_FLOOR) ? ez_println(0.0f) : ez_println(pow_meter_current_average.average);
 }
+
